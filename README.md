@@ -1,5 +1,6 @@
 # opsAdminAPI
-Python tools to get MongoDB ops mms Administration API metrics and write into Mysql 
+Python tools to get MongoDB ops mms Administration API metrics and write into Mysql tables
+
 
 # Prerequisites 
 ## MongoDB Ops mms 
